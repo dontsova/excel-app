@@ -1,0 +1,14 @@
+Webpack(imports/exports)
+    Babel
+    SASS
+    Eslint
+    Build modes:
+        - Dev: Server, SourceMaps, Eslint, Not minified JS & CSS
+        - Prod: Minified Dist
+
+Git use Pull Request
+    example:
+        Production Branch
+        Development Branch
+
+Stop on Video part2 e02
