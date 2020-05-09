@@ -10,5 +10,3 @@ Git use Pull Request
     example:
         Production Branch
         Development Branch
-
-Stop on Video part2 e02
